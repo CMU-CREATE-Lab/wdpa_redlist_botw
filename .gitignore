@@ -8,3 +8,5 @@ data/raw
 data/redlist
 data/wdpa
 data/wdpa_redlist
+notebooks/*.sql
+notebooks/*/*.sql
