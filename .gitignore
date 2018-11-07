@@ -1,0 +1,10 @@
+*~
+*.sql
+.DS_Store
+.ipynb_checkpoints/
+data/*.zip
+data/attribute_table
+data/raw
+data/redlist
+data/wdpa
+data/wdpa_redlist
